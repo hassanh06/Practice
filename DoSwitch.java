@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class DoSwitchEnm {
+public class DoSwitch {
 
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
